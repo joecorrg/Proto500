@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363470688750",
+    "project_id": "cavos4",
+    "storage_bucket": "cavos4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363470688750:android:b344869453efd83d7afeff",
+        "android_client_info": {
+          "package_name": "com.santosenoque.cadevo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363470688750-2inio4l7dd3hrbks649elq4kd5vo7sn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBh82tcsCShOMCia-zyJBuLBjWz6Y4zd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363470688750-2inio4l7dd3hrbks649elq4kd5vo7sn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
